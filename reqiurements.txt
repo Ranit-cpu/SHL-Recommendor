@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+openai
+google-generativeai
+faiss-cpu
+requests
+beautifulsoup4
+pandas
