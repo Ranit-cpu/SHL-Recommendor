@@ -3,8 +3,8 @@ import openai
 import requests
 
 # Load API keys
-GEMINI_API_KEY = "AIzaSyCJ2OSEgSjqq6OandlmUwRpZRwuOJiBAuU"
-OPENAI_API_KEY = "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"
+GEMINI_API_KEY = "GEMINI_API_KEY"
+OPENAI_API_KEY = "OPENAI_API_KEY"
 openai.api_key = OPENAI_API_KEY
 
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-pro:generateContent?key={GEMINI_API_KEY}"
