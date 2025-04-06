@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Cognitive Ability Test",
+    "url": "https://www.shl.com/en/assessments/cognitive-ability/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "30 minutes",
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "Personality Questionnaire",
+    "url": "https://www.shl.com/en/assessments/personality/",
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "duration": "40 minutes",
+    "test_type": "Personality"
+  },
+  {
+    "name": "Coding Simulation - Java",
+    "url": "https://www.shl.com/en/assessments/coding/",
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "45 minutes",
+    "test_type": "Technical"
+  }
+]

@@ -13,6 +13,5 @@ def load_faiss_index():
 def extract_text_from_url(url):
     res = requests.get(url)
     soup = BeautifulSoup(res.text,'html.parser')
-
-    return soup.get_text
+    return soup.get_text()
 

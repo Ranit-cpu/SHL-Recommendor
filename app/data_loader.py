@@ -29,7 +29,7 @@ def get_assessment_links():
 
 def scrape_assessment_page(url):
     """Scrapes details from an individual assessment page"""
-    res = requests.get(url,headers=[HEADERS])
+    res = requests.get(url,headers=HEADERS)
     soup = BeautifulSoup(res.text,'html.parser')
 
     title = soup.find("h1")

@@ -1,0 +1,9 @@
+{
+  "name": "...",
+  "url": "...",
+  "test_type": "...",
+  "duration": "...",
+  "remote": "...",
+  "adaptive": "...",
+  "description": "..."
+}
